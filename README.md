@@ -44,7 +44,7 @@ num = vis[most]
 print(f"3. Работник {most} был чаще всех: {num} раз")
 
 ### Результат.
-![Меню]((https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg))
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
 
 ## Выводы
 
