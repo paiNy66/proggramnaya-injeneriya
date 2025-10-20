@@ -27,7 +27,7 @@ print("Кортеж:", numbers_tuple)
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_6/sam1.jpg)
 
 ## Выводы
 data.split() - разделение строки по пробелам на список строк
@@ -53,7 +53,7 @@ print(remove_first_occurrence((2, 4, 6, 6, 4, 2), 9))
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_6/sam2.jpg)
 
 ## Выводы
 element not in tpl - проверка наличия элемента в кортеже
@@ -81,7 +81,7 @@ print(result)
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_6/sam3.jpg)
 
 ## Выводы
 count_dict.get(num, 0) + 1 - подсчет количества каждого числа
@@ -110,7 +110,7 @@ print(get_sublist((1, 2, 8, 5, 1, 2, 9), 8))
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_6/sam4.jpg)
 
 ## Выводы
 [i for i, x in enumerate(tpl) if x == element] - поиск всех индексов элемента
@@ -140,7 +140,7 @@ print("Топ студентов по физике:", get_top_students(students_
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_6/sam5.jpg)
 
 ## Выводы
 students[name] = tuple(grades) - сохранение оцеок как неизменяемого корткжа
@@ -168,7 +168,7 @@ print(key, access)
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_ЛАБ3.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_6/lab1.jpg)
 ## Выводы
 dictionary.get(request) - безопасное получение значения по ключу
 if not response: - проверка существования кабинета в словаре
@@ -191,7 +191,7 @@ pprint.pprint(result)
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_ЛАБ3.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_6/lab2.jpg)
 ## Выводы
 **kwargs - прием неограниченного количества именованных параметров
 my_dict.update(kwargs) - обновление словаря новыми ключами и значениями
@@ -210,7 +210,7 @@ print("Список символов:", char_list)
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_ЛАБ3.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_6/lab3.jpg)
 ## Выводы
 tuple(text) - преобразование строки в кортеж символов
 list(char_tuple) - преобразование кортежа в список (аналог split())
@@ -228,7 +228,7 @@ print(person_info(person_data))
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_ЛАБ3.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_6/lab4.jpg)
 ## Выводы
 name, age, job = data - распаковка кортежа в отдельные переменные
 Возврат форматированной строки с данными из кортежа
@@ -250,7 +250,7 @@ print(tuple_sort((5, 5, 2.1, '1', 9)))
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_ЛАБ3.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_6/lab5.jpg)
 ## Выводы
 isinstance(elm, int) - проверка типа каждого элемента
 tuple(sorted(tpl)) - сортировка и преобразование обратно в кортеж
