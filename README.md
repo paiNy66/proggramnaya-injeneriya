@@ -45,7 +45,7 @@ print(f"Самое часто встречающееся слово: '{most_comm
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/sam1.jpg)
 
 ## Выводы
 
@@ -95,7 +95,7 @@ while True:
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/sam2.jpg)
 
 ## Выводы
 open("expenses.txt", "a") - открытие файла для добавления данных
@@ -129,7 +129,7 @@ print(f"{line_count} lines")
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/sam3.jpg)
 
 ## Выводы
 file.readlines() - чтение всех строк файла
@@ -165,7 +165,7 @@ print(text)
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/sam4.jpg)
 
 ## Выводы
 file.read().split() - чтение запрещенных слов из файла в список
@@ -236,7 +236,7 @@ while True:
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/sam5.jpg)
 
 ## Выводы
 ord(char) - получение кода символа для шифрования
@@ -250,7 +250,7 @@ open("diary.txt", "a") - добавление новых сообщений в �
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/lab1.jpg)
 
 
 
@@ -265,7 +265,7 @@ file.close()
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/lab2.jpg)
 
 ## Выводы
 open("myfile.txt", "r") - открытие файла для чтения
@@ -283,7 +283,7 @@ file.close()
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/lab3.jpg)
 
 ## Выводы
 file.readlines() - чтение всех строк в список
@@ -301,7 +301,7 @@ with open("input.txt", "r", encoding="utf-8") as file:
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/lab4.jpg)
 
 ## Выводы
 with open() - автоматическое закрытие файла
@@ -318,7 +318,7 @@ with open("input.txt", "r", encoding="utf-8") as file:
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/lab5.jpg)
 
 ## Выводы
 for line in file: - построчное чтение файла
@@ -337,7 +337,7 @@ with open("input.txt", "r", encoding="utf-8") as file:
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/lab6.jpg)
 
 ## Выводы
 open("myfile.txt", "a") - добавление данных в файл
@@ -358,7 +358,7 @@ with open('myfile.txt', 'r', encoding="utf-8") as file:
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/lab7.jpg)
 
 ## Выводы
 open("myfile.txt", "w") - перезапись файла
@@ -383,7 +383,7 @@ print_docs('C:/Users/GPC/Desktop')
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/lab8.jpg)
 
 ## Выводы
 os.walk(directory) - обход всех папок и файлов
@@ -411,7 +411,7 @@ find_longest_words()
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/lab9.jpg)
 
 ## Выводы
 file.read().split() - чтение и разделение на слова
@@ -436,7 +436,7 @@ with open('rows_300.csv', 'w', encoding='utf-8', newline='') as file:
 
 ```
 ### Результат.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_5/Тема_5_1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_7/lab10.jpg)
 
 ## Выводы
 csv.writer() - создание writer для CSV
