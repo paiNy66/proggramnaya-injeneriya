@@ -43,7 +43,7 @@ print(f"С кэшем: {result2}, время: {end - start:.4f} сек")
 
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_10/Theme10_lab1.jpg)
 
 ## Выводы
 
@@ -72,7 +72,7 @@ print_user_info("Илья", 25)
 
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_10/Theme10_lab2.jpg)
 
 ## Выводы
 
@@ -107,7 +107,7 @@ process_data("abc")
 
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_10/Theme10_lab3.jpg)
 
 ## Выводы
 
@@ -133,7 +133,7 @@ validate_name_length("Михаил")
 validate_name_length("Александрович")
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_10/Theme10_lab4.jpg)
 
 ## Выводы
 
@@ -163,7 +163,7 @@ def site():
 site()
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_10/Theme10_lab5.jpg)
 
 ## Выводы
 
@@ -198,7 +198,7 @@ if __name__ == '__main__':
     fibonacci()
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_10/Theme10_sam1.jpg)
 
 ## Выводы
 
@@ -225,7 +225,7 @@ read_file("empty.txt")
 read_file("with_content.txt")
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_10/Theme10_sam2.jpg)
 
 ## Выводы
 
@@ -250,7 +250,7 @@ add_two()
 add_two()
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_10/Theme10_sam3.jpg)
 
 ## Выводы
 
@@ -289,7 +289,7 @@ multiply(3, 4)
 multiply(5, 6)
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_10/Theme10_sam4.jpg)
 
 ## Выводы
 
@@ -331,7 +331,7 @@ process_age(20)
 process_age(-5)
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_9/test1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/Тема_10/Theme10_sam5.jpg)
 
 ## Выводы
 
