@@ -33,7 +33,7 @@ for i, num in enumerate(fib(200), 1):
 
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_lab1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_sam1.jpg)
 
 ## Выводы
 
@@ -62,7 +62,7 @@ print("Числа Фибоначчи записаны в файл fib.txt")
 
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_lab2.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_sam2.jpg)
 
 ## Выводы
 
@@ -81,7 +81,7 @@ for item in numbers:
 
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_lab3.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_lab1.jpg)
 
 ## Выводы
 
@@ -109,7 +109,7 @@ print("Числа Фибоначчи записаны в файл fib.txt")
 
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_lab4.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_lab2.jpg)
 
 ## Выводы
 
@@ -127,7 +127,7 @@ for square in squares:
 
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_lab5.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_lab3.jpg)
 
 ## Выводы
 
@@ -143,7 +143,7 @@ for square in squares:
 (x**2 for x in range(1, 6)) - создание генераторного выражения
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_sam1.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_lab4.jpg)
 
 ## Выводы
 
@@ -163,7 +163,7 @@ for num in countdown(5):
     print(num)
 ```
 ### Результаты выполнения тестов.
-![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_sam2.jpg)
+![Меню](https://github.com/paiNy66/proggramnaya-injeneriya/blob/main/Theme11_lab5.jpg)
 
 ## Выводы
 
